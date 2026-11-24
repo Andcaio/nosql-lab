@@ -23,7 +23,7 @@ O banco e as coleções não precisam ser criados à mão: os scripts criam tudo
 Todos os comandos abaixo rodam na pasta raiz do projeto.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Andcaio/nosql-lab.git
 cd nosql-lab
 python -m pip install -r requirements.txt
 ```
